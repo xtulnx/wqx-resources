@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-4db4e3baab26e2fb",
+      "path": "catalog/bin/pc2000/entries/resource-4db4e3baab26e2fb.json"
+    },
+    {
+      "id": "resource-acfc064a68cb4943",
+      "path": "catalog/bin/pc2000/entries/resource-acfc064a68cb4943.json"
+    },
+    {
+      "id": "resource-dd9d1ad8c41978f5",
+      "path": "catalog/bin/pc2000/entries/resource-dd9d1ad8c41978f5.json"
+    }
+  ]
+}

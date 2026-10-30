@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "groups": [
+    {
+      "id": "lava",
+      "count": 121,
+      "path": "catalog/lava/lava/index.json"
+    }
+  ]
+}

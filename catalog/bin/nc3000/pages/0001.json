@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-844e1c1b0ebf0c22",
+      "path": "catalog/bin/nc3000/entries/resource-844e1c1b0ebf0c22.json"
+    },
+    {
+      "id": "resource-c9da0e30aade7947",
+      "path": "catalog/bin/nc3000/entries/resource-c9da0e30aade7947.json"
+    },
+    {
+      "id": "resource-dce36b129d3b6e27",
+      "path": "catalog/bin/nc3000/entries/resource-dce36b129d3b6e27.json"
+    }
+  ]
+}

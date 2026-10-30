@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "categories": [
+    {
+      "id": "basic",
+      "path": "catalog/basic/index.json"
+    },
+    {
+      "id": "bin",
+      "path": "catalog/bin/index.json"
+    },
+    {
+      "id": "firmware",
+      "path": "catalog/firmware/index.json"
+    },
+    {
+      "id": "lava",
+      "path": "catalog/lava/index.json"
+    }
+  ]
+}

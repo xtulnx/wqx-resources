@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-1f71fc2f1183ce88",
+      "path": "catalog/firmware/nc2000-nc2600-kernels/entries/resource-1f71fc2f1183ce88.json"
+    },
+    {
+      "id": "resource-793ace3bd12455d2",
+      "path": "catalog/firmware/nc2000-nc2600-kernels/entries/resource-793ace3bd12455d2.json"
+    },
+    {
+      "id": "resource-9e003a67683dd8c1",
+      "path": "catalog/firmware/nc2000-nc2600-kernels/entries/resource-9e003a67683dd8c1.json"
+    },
+    {
+      "id": "resource-c0450d0a14151dbc",
+      "path": "catalog/firmware/nc2000-nc2600-kernels/entries/resource-c0450d0a14151dbc.json"
+    },
+    {
+      "id": "resource-cd5135c8e4eaf015",
+      "path": "catalog/firmware/nc2000-nc2600-kernels/entries/resource-cd5135c8e4eaf015.json"
+    }
+  ]
+}

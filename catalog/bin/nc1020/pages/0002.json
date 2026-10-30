@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-ef4dbc435f8fa01c",
+      "path": "catalog/bin/nc1020/entries/resource-ef4dbc435f8fa01c.json"
+    },
+    {
+      "id": "resource-f969e63e24e371b5",
+      "path": "catalog/bin/nc1020/entries/resource-f969e63e24e371b5.json"
+    }
+  ]
+}

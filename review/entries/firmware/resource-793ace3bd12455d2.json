@@ -1,0 +1,29 @@
+{
+  "status": "maintainer-published-unverified",
+  "rightsStatus": "unverified",
+  "publicationDecision": "维护者于2026-10-30明确决定在未取得作者授权情况下先行发布，收到可信版权通知后暂停并核实移除。此决定不构成权利人授权。",
+  "candidateId": "candidate-793ace3bd12455d2",
+  "id": "resource-793ace3bd12455d2",
+  "title": "5.0内核 by epc",
+  "version": "5.0",
+  "author": "epc",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc2000",
+    "nc2600"
+  ],
+  "description": "历史收集资源；分类：nc2000-nc2600-kernels。授权及实际兼容性未经确认。",
+  "compatibilityNotes": "目标机型线索：nc2000, nc2600；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。ROM/NOR/NAND 应组合选择用于对应机型配置；.nand0为临时文件不提供。可写镜像不保证出厂状态。",
+  "files": [
+    {
+      "sha256": "80aad1c537ada5bdb60f36a72bf9c0460c83bb89416998b9973567380985f78b",
+      "path": "releases/download/resources-current/80aad1c537ada5bdb60f36a72bf9c0460c83bb89416998b9973567380985f78b.nand"
+    },
+    {
+      "sha256": "ad31bdb62d2ab2db5430f5da79558c2340c5279dcfc1e5f15bbd899d093e5173",
+      "path": "releases/download/resources-current/ad31bdb62d2ab2db5430f5da79558c2340c5279dcfc1e5f15bbd899d093e5173.nor"
+    }
+  ]
+}

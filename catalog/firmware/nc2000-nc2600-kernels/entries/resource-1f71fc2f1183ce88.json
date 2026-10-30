@@ -1,0 +1,36 @@
+{
+  "id": "resource-1f71fc2f1183ce88",
+  "title": "非常4.2内核 by 41824984",
+  "version": "4.2",
+  "author": "41824984",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc2000",
+    "nc2600"
+  ],
+  "compatibilityNotes": "目标机型线索：nc2000, nc2600；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。ROM/NOR/NAND 应组合选择用于对应机型配置；.nand0为临时文件不提供。可写镜像不保证出厂状态。",
+  "type": "firmware",
+  "description": "历史收集资源；分类：nc2000-nc2600-kernels。授权及实际兼容性未经确认。",
+  "logo": "",
+  "screenshots": [],
+  "files": [
+    {
+      "name": "fc42.nand",
+      "role": "nand",
+      "bytes": 34603008,
+      "sha256": "ee1a587bdd66be58e9c686726db4bbae591a84c295c9e64fb2ddbd19e3551900",
+      "path": "releases/download/resources-current/ee1a587bdd66be58e9c686726db4bbae591a84c295c9e64fb2ddbd19e3551900.nand"
+    },
+    {
+      "name": "fc42.nor",
+      "role": "nor",
+      "bytes": 524288,
+      "sha256": "57f799a0833d67622dce90a4494e444f050472b971b0f1b9cde9b17331424605",
+      "path": "releases/download/resources-current/57f799a0833d67622dce90a4494e444f050472b971b0f1b9cde9b17331424605.nor"
+    }
+  ],
+  "classification": "nc2000-nc2600-kernels",
+  "rightsStatus": "unverified"
+}

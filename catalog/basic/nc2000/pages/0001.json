@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-192528b9f1c247ea",
+      "path": "catalog/basic/nc2000/entries/resource-192528b9f1c247ea.json"
+    },
+    {
+      "id": "resource-eb94e5c770885307",
+      "path": "catalog/basic/nc2000/entries/resource-eb94e5c770885307.json"
+    },
+    {
+      "id": "resource-f2dbcf16c9606ecc",
+      "path": "catalog/basic/nc2000/entries/resource-f2dbcf16c9606ecc.json"
+    },
+    {
+      "id": "resource-fad5dcd4094817af",
+      "path": "catalog/basic/nc2000/entries/resource-fad5dcd4094817af.json"
+    }
+  ]
+}

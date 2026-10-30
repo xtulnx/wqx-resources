@@ -1,0 +1,28 @@
+{
+  "id": "resource-dce36b129d3b6e27",
+  "title": "manc3000",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc3000"
+  ],
+  "compatibilityNotes": "目标机型线索：nc3000；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。从模拟器导入入口选择文件；BASIC/LAVA 需要对应运行环境及可能存在的配套数据，依赖尚需核实。",
+  "type": "bin",
+  "description": "历史收集资源；分类：nc3000。授权及实际兼容性未经确认。",
+  "logo": "",
+  "screenshots": [],
+  "files": [
+    {
+      "name": "manc3000.bin",
+      "role": "bin",
+      "bytes": 41063,
+      "sha256": "4cfa41c57a9ea220d8360739283cd9d312973768e618344c620e28bb4438a3f2",
+      "path": "releases/download/resources-current/4cfa41c57a9ea220d8360739283cd9d312973768e618344c620e28bb4438a3f2.bin"
+    }
+  ],
+  "classification": "nc3000",
+  "rightsStatus": "unverified"
+}

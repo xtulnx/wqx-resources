@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-b1eb55def69903c9",
+      "path": "catalog/basic/gvbasic/entries/resource-b1eb55def69903c9.json"
+    },
+    {
+      "id": "resource-b3be617af5023dc7",
+      "path": "catalog/basic/gvbasic/entries/resource-b3be617af5023dc7.json"
+    },
+    {
+      "id": "resource-b571d3b91027388b",
+      "path": "catalog/basic/gvbasic/entries/resource-b571d3b91027388b.json"
+    },
+    {
+      "id": "resource-bd273e691da83b38",
+      "path": "catalog/basic/gvbasic/entries/resource-bd273e691da83b38.json"
+    },
+    {
+      "id": "resource-c1a19866c4434aee",
+      "path": "catalog/basic/gvbasic/entries/resource-c1a19866c4434aee.json"
+    },
+    {
+      "id": "resource-c206fca9629cff4f",
+      "path": "catalog/basic/gvbasic/entries/resource-c206fca9629cff4f.json"
+    },
+    {
+      "id": "resource-c2ba192783e3ff65",
+      "path": "catalog/basic/gvbasic/entries/resource-c2ba192783e3ff65.json"
+    },
+    {
+      "id": "resource-c50c613ed8278b21",
+      "path": "catalog/basic/gvbasic/entries/resource-c50c613ed8278b21.json"
+    },
+    {
+      "id": "resource-cdd01b4675f427be",
+      "path": "catalog/basic/gvbasic/entries/resource-cdd01b4675f427be.json"
+    },
+    {
+      "id": "resource-cf4276707bb55c98",
+      "path": "catalog/basic/gvbasic/entries/resource-cf4276707bb55c98.json"
+    },
+    {
+      "id": "resource-d2a66bac8d66041a",
+      "path": "catalog/basic/gvbasic/entries/resource-d2a66bac8d66041a.json"
+    },
+    {
+      "id": "resource-d50a8d0df870f1ad",
+      "path": "catalog/basic/gvbasic/entries/resource-d50a8d0df870f1ad.json"
+    },
+    {
+      "id": "resource-d5e126a24d79385d",
+      "path": "catalog/basic/gvbasic/entries/resource-d5e126a24d79385d.json"
+    },
+    {
+      "id": "resource-d990686d963c1739",
+      "path": "catalog/basic/gvbasic/entries/resource-d990686d963c1739.json"
+    },
+    {
+      "id": "resource-db65dc6b9b5c5c81",
+      "path": "catalog/basic/gvbasic/entries/resource-db65dc6b9b5c5c81.json"
+    },
+    {
+      "id": "resource-e0f6882dee6c2cad",
+      "path": "catalog/basic/gvbasic/entries/resource-e0f6882dee6c2cad.json"
+    },
+    {
+      "id": "resource-e0fa7a7f95c46ba7",
+      "path": "catalog/basic/gvbasic/entries/resource-e0fa7a7f95c46ba7.json"
+    },
+    {
+      "id": "resource-e3838f9149205105",
+      "path": "catalog/basic/gvbasic/entries/resource-e3838f9149205105.json"
+    },
+    {
+      "id": "resource-e3e794d2bb40ef47",
+      "path": "catalog/basic/gvbasic/entries/resource-e3e794d2bb40ef47.json"
+    },
+    {
+      "id": "resource-f0b1a9ac66dce11f",
+      "path": "catalog/basic/gvbasic/entries/resource-f0b1a9ac66dce11f.json"
+    },
+    {
+      "id": "resource-f6389db1e608f107",
+      "path": "catalog/basic/gvbasic/entries/resource-f6389db1e608f107.json"
+    }
+  ]
+}

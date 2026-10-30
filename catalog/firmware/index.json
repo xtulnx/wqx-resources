@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "groups": [
+    {
+      "id": "nc1020",
+      "count": 5,
+      "path": "catalog/firmware/nc1020/index.json"
+    },
+    {
+      "id": "nc1020tw",
+      "count": 1,
+      "path": "catalog/firmware/nc1020tw/index.json"
+    },
+    {
+      "id": "nc2000",
+      "count": 1,
+      "path": "catalog/firmware/nc2000/index.json"
+    },
+    {
+      "id": "nc2000-nc2600-kernels",
+      "count": 5,
+      "path": "catalog/firmware/nc2000-nc2600-kernels/index.json"
+    },
+    {
+      "id": "nc2000tw",
+      "count": 1,
+      "path": "catalog/firmware/nc2000tw/index.json"
+    },
+    {
+      "id": "nc2600",
+      "count": 1,
+      "path": "catalog/firmware/nc2600/index.json"
+    },
+    {
+      "id": "nc3000",
+      "count": 1,
+      "path": "catalog/firmware/nc3000/index.json"
+    },
+    {
+      "id": "pc1000",
+      "count": 1,
+      "path": "catalog/firmware/pc1000/index.json"
+    }
+  ]
+}

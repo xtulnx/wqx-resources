@@ -1,0 +1,28 @@
+{
+  "status": "maintainer-published-unverified",
+  "rightsStatus": "unverified",
+  "publicationDecision": "维护者于2026-10-30明确决定在未取得作者授权情况下先行发布，收到可信版权通知后暂停并核实移除。此决定不构成权利人授权。",
+  "candidateId": "candidate-db2e9966e8081e4c",
+  "id": "resource-db2e9966e8081e4c",
+  "title": "nc2000tw",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc2000tw"
+  ],
+  "description": "历史收集资源；分类：nc2000tw。授权及实际兼容性未经确认。",
+  "compatibilityNotes": "目标机型线索：nc2000tw；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。ROM/NOR/NAND 应组合选择用于对应机型配置；.nand0为临时文件不提供。可写镜像不保证出厂状态。",
+  "files": [
+    {
+      "sha256": "4a45914ab31fdbb7ae9791672106e25453b2029b0abc498fe99aa30eab3b409b",
+      "path": "releases/download/resources-current/4a45914ab31fdbb7ae9791672106e25453b2029b0abc498fe99aa30eab3b409b.nand"
+    },
+    {
+      "sha256": "1cb054dcb7ae83e0cd97a33d4689b91c1c702be1799514d5a3944dd21150bd01",
+      "path": "releases/download/resources-current/1cb054dcb7ae83e0cd97a33d4689b91c1c702be1799514d5a3944dd21150bd01.nor"
+    }
+  ]
+}

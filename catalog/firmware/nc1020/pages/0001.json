@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-0d3b93c718035572",
+      "path": "catalog/firmware/nc1020/entries/resource-0d3b93c718035572.json"
+    },
+    {
+      "id": "resource-18a4b1073fdfa1a5",
+      "path": "catalog/firmware/nc1020/entries/resource-18a4b1073fdfa1a5.json"
+    },
+    {
+      "id": "resource-70a1da2587fafb88",
+      "path": "catalog/firmware/nc1020/entries/resource-70a1da2587fafb88.json"
+    },
+    {
+      "id": "resource-a4aec1212ae7ba61",
+      "path": "catalog/firmware/nc1020/entries/resource-a4aec1212ae7ba61.json"
+    },
+    {
+      "id": "resource-c2658ae758f7075d",
+      "path": "catalog/firmware/nc1020/entries/resource-c2658ae758f7075d.json"
+    }
+  ]
+}

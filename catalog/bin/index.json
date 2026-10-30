@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "groups": [
+    {
+      "id": "nc1020",
+      "count": 27,
+      "path": "catalog/bin/nc1020/index.json"
+    },
+    {
+      "id": "nc2000",
+      "count": 1,
+      "path": "catalog/bin/nc2000/index.json"
+    },
+    {
+      "id": "nc2600",
+      "count": 14,
+      "path": "catalog/bin/nc2600/index.json"
+    },
+    {
+      "id": "nc3000",
+      "count": 3,
+      "path": "catalog/bin/nc3000/index.json"
+    },
+    {
+      "id": "pc1000",
+      "count": 2,
+      "path": "catalog/bin/pc1000/index.json"
+    },
+    {
+      "id": "pc2000",
+      "count": 3,
+      "path": "catalog/bin/pc2000/index.json"
+    },
+    {
+      "id": "pc2300",
+      "count": 2,
+      "path": "catalog/bin/pc2300/index.json"
+    },
+    {
+      "id": "tc1000",
+      "count": 1,
+      "path": "catalog/bin/tc1000/index.json"
+    }
+  ]
+}

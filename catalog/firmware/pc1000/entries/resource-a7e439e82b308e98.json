@@ -1,0 +1,35 @@
+{
+  "id": "resource-a7e439e82b308e98",
+  "title": "pc1000",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "pc1000"
+  ],
+  "compatibilityNotes": "目标机型线索：pc1000；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。ROM/NOR/NAND 应组合选择用于对应机型配置；.nand0为临时文件不提供。可写镜像不保证出厂状态。",
+  "type": "firmware",
+  "description": "历史收集资源；分类：pc1000。授权及实际兼容性未经确认。",
+  "logo": "",
+  "screenshots": [],
+  "files": [
+    {
+      "name": "pc1000.nor",
+      "role": "nor",
+      "bytes": 524288,
+      "sha256": "4fcd6a03a3b4e89d2edcbc5e5062ae5b02d6cf1d95d062f277b14f68b07b5884",
+      "path": "releases/download/resources-current/4fcd6a03a3b4e89d2edcbc5e5062ae5b02d6cf1d95d062f277b14f68b07b5884.nor"
+    },
+    {
+      "name": "pc1000.rom",
+      "role": "rom",
+      "bytes": 12582912,
+      "sha256": "97c89dc94228e898e4dd639df97d480b0dd370ff153b4e3eca87637198b7aa12",
+      "path": "releases/download/resources-current/97c89dc94228e898e4dd639df97d480b0dd370ff153b4e3eca87637198b7aa12.rom"
+    }
+  ],
+  "classification": "pc1000",
+  "rightsStatus": "unverified"
+}

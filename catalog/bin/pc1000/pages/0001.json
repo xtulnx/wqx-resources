@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-3d6a82f7a0bc053d",
+      "path": "catalog/bin/pc1000/entries/resource-3d6a82f7a0bc053d.json"
+    },
+    {
+      "id": "resource-a6d7fc57d09c3be7",
+      "path": "catalog/bin/pc1000/entries/resource-a6d7fc57d09c3be7.json"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-10bf96e21ddfcc0c",
+      "path": "catalog/bin/nc2600/entries/resource-10bf96e21ddfcc0c.json"
+    },
+    {
+      "id": "resource-1aa99cd19435a4b9",
+      "path": "catalog/bin/nc2600/entries/resource-1aa99cd19435a4b9.json"
+    },
+    {
+      "id": "resource-20a60bc3e8e48d96",
+      "path": "catalog/bin/nc2600/entries/resource-20a60bc3e8e48d96.json"
+    },
+    {
+      "id": "resource-257f9090b21747dc",
+      "path": "catalog/bin/nc2600/entries/resource-257f9090b21747dc.json"
+    },
+    {
+      "id": "resource-602783a62ac0ef1a",
+      "path": "catalog/bin/nc2600/entries/resource-602783a62ac0ef1a.json"
+    },
+    {
+      "id": "resource-7bc330ffd8554833",
+      "path": "catalog/bin/nc2600/entries/resource-7bc330ffd8554833.json"
+    },
+    {
+      "id": "resource-86ee4d012935af6d",
+      "path": "catalog/bin/nc2600/entries/resource-86ee4d012935af6d.json"
+    },
+    {
+      "id": "resource-9743dea57784cfd2",
+      "path": "catalog/bin/nc2600/entries/resource-9743dea57784cfd2.json"
+    },
+    {
+      "id": "resource-9f330c8c34118496",
+      "path": "catalog/bin/nc2600/entries/resource-9f330c8c34118496.json"
+    },
+    {
+      "id": "resource-bf9200a2d59b297d",
+      "path": "catalog/bin/nc2600/entries/resource-bf9200a2d59b297d.json"
+    },
+    {
+      "id": "resource-ea7d610446d41a4d",
+      "path": "catalog/bin/nc2600/entries/resource-ea7d610446d41a4d.json"
+    },
+    {
+      "id": "resource-eeb93df26cf21e78",
+      "path": "catalog/bin/nc2600/entries/resource-eeb93df26cf21e78.json"
+    },
+    {
+      "id": "resource-f0c8421ea32102ae",
+      "path": "catalog/bin/nc2600/entries/resource-f0c8421ea32102ae.json"
+    },
+    {
+      "id": "resource-f926449f100ed775",
+      "path": "catalog/bin/nc2600/entries/resource-f926449f100ed775.json"
+    }
+  ]
+}

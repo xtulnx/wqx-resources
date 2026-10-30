@@ -1,0 +1,28 @@
+{
+  "status": "maintainer-published-unverified",
+  "rightsStatus": "unverified",
+  "publicationDecision": "维护者于2026-10-30明确决定在未取得作者授权情况下先行发布，收到可信版权通知后暂停并核实移除。此决定不构成权利人授权。",
+  "candidateId": "candidate-092304874234ffa4",
+  "id": "resource-092304874234ffa4",
+  "title": "nc2600",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc2600"
+  ],
+  "description": "历史收集资源；分类：nc2600。授权及实际兼容性未经确认。",
+  "compatibilityNotes": "目标机型线索：nc2600；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。ROM/NOR/NAND 应组合选择用于对应机型配置；.nand0为临时文件不提供。可写镜像不保证出厂状态。",
+  "files": [
+    {
+      "sha256": "a9ddf5303342454c10fe3ae3f124f52e45a0b802edf8f0e12b2bafa84bdd5a58",
+      "path": "releases/download/resources-current/a9ddf5303342454c10fe3ae3f124f52e45a0b802edf8f0e12b2bafa84bdd5a58.nand"
+    },
+    {
+      "sha256": "48cb89afdbf93d076f42561557022d7c5f7a5778e46153a972af4ed2dc9e479c",
+      "path": "releases/download/resources-current/48cb89afdbf93d076f42561557022d7c5f7a5778e46153a972af4ed2dc9e479c.nor"
+    }
+  ]
+}

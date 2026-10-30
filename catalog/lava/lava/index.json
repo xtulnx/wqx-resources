@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "pages": [
+    {
+      "path": "catalog/lava/lava/pages/0001.json",
+      "count": 25
+    },
+    {
+      "path": "catalog/lava/lava/pages/0002.json",
+      "count": 25
+    },
+    {
+      "path": "catalog/lava/lava/pages/0003.json",
+      "count": 25
+    },
+    {
+      "path": "catalog/lava/lava/pages/0004.json",
+      "count": 25
+    },
+    {
+      "path": "catalog/lava/lava/pages/0005.json",
+      "count": 21
+    }
+  ]
+}

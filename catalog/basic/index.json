@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "groups": [
+    {
+      "id": "gvbasic",
+      "count": 71,
+      "path": "catalog/basic/gvbasic/index.json"
+    },
+    {
+      "id": "nc1020",
+      "count": 6,
+      "path": "catalog/basic/nc1020/index.json"
+    },
+    {
+      "id": "nc2000",
+      "count": 4,
+      "path": "catalog/basic/nc2000/index.json"
+    },
+    {
+      "id": "nc2600",
+      "count": 3,
+      "path": "catalog/basic/nc2600/index.json"
+    }
+  ]
+}

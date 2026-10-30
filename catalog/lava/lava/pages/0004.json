@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-a655496d8ca9f04b",
+      "path": "catalog/lava/lava/entries/resource-a655496d8ca9f04b.json"
+    },
+    {
+      "id": "resource-a8a171cba0efd5a4",
+      "path": "catalog/lava/lava/entries/resource-a8a171cba0efd5a4.json"
+    },
+    {
+      "id": "resource-ab399a313b97acb6",
+      "path": "catalog/lava/lava/entries/resource-ab399a313b97acb6.json"
+    },
+    {
+      "id": "resource-ac6a082d53c51d83",
+      "path": "catalog/lava/lava/entries/resource-ac6a082d53c51d83.json"
+    },
+    {
+      "id": "resource-aea6a7df80eb10f9",
+      "path": "catalog/lava/lava/entries/resource-aea6a7df80eb10f9.json"
+    },
+    {
+      "id": "resource-af4115d3cc1e6c17",
+      "path": "catalog/lava/lava/entries/resource-af4115d3cc1e6c17.json"
+    },
+    {
+      "id": "resource-b1c8bc1a03a1309d",
+      "path": "catalog/lava/lava/entries/resource-b1c8bc1a03a1309d.json"
+    },
+    {
+      "id": "resource-b37bb1d27c27e831",
+      "path": "catalog/lava/lava/entries/resource-b37bb1d27c27e831.json"
+    },
+    {
+      "id": "resource-b388c04e2e24139b",
+      "path": "catalog/lava/lava/entries/resource-b388c04e2e24139b.json"
+    },
+    {
+      "id": "resource-b39bf5973bc2832d",
+      "path": "catalog/lava/lava/entries/resource-b39bf5973bc2832d.json"
+    },
+    {
+      "id": "resource-b3b203d492a1be24",
+      "path": "catalog/lava/lava/entries/resource-b3b203d492a1be24.json"
+    },
+    {
+      "id": "resource-b5636984318590a6",
+      "path": "catalog/lava/lava/entries/resource-b5636984318590a6.json"
+    },
+    {
+      "id": "resource-b56981877ebaaf3e",
+      "path": "catalog/lava/lava/entries/resource-b56981877ebaaf3e.json"
+    },
+    {
+      "id": "resource-b5d75c25d85a4427",
+      "path": "catalog/lava/lava/entries/resource-b5d75c25d85a4427.json"
+    },
+    {
+      "id": "resource-b969af196032486f",
+      "path": "catalog/lava/lava/entries/resource-b969af196032486f.json"
+    },
+    {
+      "id": "resource-bdf39cfc04072483",
+      "path": "catalog/lava/lava/entries/resource-bdf39cfc04072483.json"
+    },
+    {
+      "id": "resource-beb2bf2e07cf7ebd",
+      "path": "catalog/lava/lava/entries/resource-beb2bf2e07cf7ebd.json"
+    },
+    {
+      "id": "resource-c4370f8a9dd92fe8",
+      "path": "catalog/lava/lava/entries/resource-c4370f8a9dd92fe8.json"
+    },
+    {
+      "id": "resource-cac5e34854060a60",
+      "path": "catalog/lava/lava/entries/resource-cac5e34854060a60.json"
+    },
+    {
+      "id": "resource-ccd9396dba872105",
+      "path": "catalog/lava/lava/entries/resource-ccd9396dba872105.json"
+    },
+    {
+      "id": "resource-ce4e945fd8b20623",
+      "path": "catalog/lava/lava/entries/resource-ce4e945fd8b20623.json"
+    },
+    {
+      "id": "resource-ceecedb1d7307f2f",
+      "path": "catalog/lava/lava/entries/resource-ceecedb1d7307f2f.json"
+    },
+    {
+      "id": "resource-cfac4c1f265083c3",
+      "path": "catalog/lava/lava/entries/resource-cfac4c1f265083c3.json"
+    },
+    {
+      "id": "resource-d0b296e30c2186d1",
+      "path": "catalog/lava/lava/entries/resource-d0b296e30c2186d1.json"
+    },
+    {
+      "id": "resource-d1afecc179fa232c",
+      "path": "catalog/lava/lava/entries/resource-d1afecc179fa232c.json"
+    }
+  ]
+}

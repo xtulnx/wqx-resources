@@ -1,0 +1,23 @@
+.local/
+dist/
+__pycache__/
+.DS_Store
+# No unreviewed payloads or personal device state in Git.
+*.rom
+*.nor
+*.nand
+*.nand0
+*.state
+*.bin
+*.bas
+*.lav
+*.zip
+*.rar
+*.7z
+*.key
+*.pem
+.env
+
+# Only explicitly reviewed files may be placed under assets by maintainers.
+!/assets/
+!/assets/**

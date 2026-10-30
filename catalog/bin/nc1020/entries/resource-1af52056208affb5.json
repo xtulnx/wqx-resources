@@ -1,0 +1,28 @@
+{
+  "id": "resource-1af52056208affb5",
+  "title": "汉语字典",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc1020"
+  ],
+  "compatibilityNotes": "目标机型线索：nc1020；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。从模拟器导入入口选择文件；BASIC/LAVA 需要对应运行环境及可能存在的配套数据，依赖尚需核实。",
+  "type": "bin",
+  "description": "历史收集资源；分类：nc1020。授权及实际兼容性未经确认。",
+  "logo": "",
+  "screenshots": [],
+  "files": [
+    {
+      "name": "汉语字典.bin",
+      "role": "bin",
+      "bytes": 237671,
+      "sha256": "a7e588b1b5fcff69d25be9f0061bb965f792920f2f785a56583cd8ce72b58ec8",
+      "path": "releases/download/resources-current/a7e588b1b5fcff69d25be9f0061bb965f792920f2f785a56583cd8ce72b58ec8.bin"
+    }
+  ],
+  "classification": "nc1020",
+  "rightsStatus": "unverified"
+}

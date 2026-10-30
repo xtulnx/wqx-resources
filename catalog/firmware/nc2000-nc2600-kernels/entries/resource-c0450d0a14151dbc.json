@@ -1,0 +1,36 @@
+{
+  "id": "resource-c0450d0a14151dbc",
+  "title": "3.5内核 by Sun",
+  "version": "3.5",
+  "author": "Sun",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc2000",
+    "nc2600"
+  ],
+  "compatibilityNotes": "目标机型线索：nc2000, nc2600；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。ROM/NOR/NAND 应组合选择用于对应机型配置；.nand0为临时文件不提供。可写镜像不保证出厂状态。",
+  "type": "firmware",
+  "description": "历史收集资源；分类：nc2000-nc2600-kernels。授权及实际兼容性未经确认。",
+  "logo": "",
+  "screenshots": [],
+  "files": [
+    {
+      "name": "35.nand",
+      "role": "nand",
+      "bytes": 34603008,
+      "sha256": "0fc4cc99a8b510a89fc5a7d3e3e5e59eb6e8dc391dda0cb555f60a178c89229f",
+      "path": "releases/download/resources-current/0fc4cc99a8b510a89fc5a7d3e3e5e59eb6e8dc391dda0cb555f60a178c89229f.nand"
+    },
+    {
+      "name": "35.nor",
+      "role": "nor",
+      "bytes": 524288,
+      "sha256": "a6541d5cd33917193238156ad67bf04cb9a8a382868514d370aa809e55c3ba15",
+      "path": "releases/download/resources-current/a6541d5cd33917193238156ad67bf04cb9a8a382868514d370aa809e55c3ba15.nor"
+    }
+  ],
+  "classification": "nc2000-nc2600-kernels",
+  "rightsStatus": "unverified"
+}

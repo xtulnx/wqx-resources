@@ -1,0 +1,26 @@
+{
+  "id": "resource-43f71bd91ebd9035",
+  "title": "太空寻宝",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [],
+  "compatibilityNotes": "仅识别运行环境，具体机型待确认；不表示全机型兼容。；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。从模拟器导入入口选择文件；BASIC/LAVA 需要对应运行环境及可能存在的配套数据，依赖尚需核实。",
+  "type": "lava",
+  "description": "历史收集资源；分类：lava。授权及实际兼容性未经确认。",
+  "logo": "",
+  "screenshots": [],
+  "files": [
+    {
+      "name": "太空寻宝.lav",
+      "role": "lav",
+      "bytes": 12996,
+      "sha256": "eec7c546989479d7cdfc9eb988c549ac914b563f2eac70c32f0be15106064c44",
+      "path": "releases/download/resources-current/eec7c546989479d7cdfc9eb988c549ac914b563f2eac70c32f0be15106064c44.lav"
+    }
+  ],
+  "classification": "lava",
+  "rightsStatus": "unverified"
+}

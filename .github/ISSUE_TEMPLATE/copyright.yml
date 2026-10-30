@@ -1,0 +1,28 @@
+name: 版权投诉／资源下架
+description: 请求暂停或移除可能侵犯权利的资源
+title: "[版权] 请求处理资源"
+body:
+  - type: markdown
+    attributes:
+      value: "请勿公开身份证件、联系方式或保密授权原件。保密材料可通过 GitHub DMCA 渠道提交。"
+  - type: textarea
+    id: resource
+    attributes:
+      label: 资源定位
+      description: 资源 ID、链接或文件摘要
+    validations:
+      required: true
+  - type: textarea
+    id: relationship
+    attributes:
+      label: 权利关系及问题说明
+      description: 原作者／权利人／代理关系，原作链接，以及具体争议内容
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: 处理诉求
+      placeholder: 暂停下载、移除附件、修正署名等
+    validations:
+      required: true

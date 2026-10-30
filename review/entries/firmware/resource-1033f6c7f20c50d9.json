@@ -1,0 +1,28 @@
+{
+  "status": "maintainer-published-unverified",
+  "rightsStatus": "unverified",
+  "publicationDecision": "维护者于2026-10-30明确决定在未取得作者授权情况下先行发布，收到可信版权通知后暂停并核实移除。此决定不构成权利人授权。",
+  "candidateId": "candidate-1033f6c7f20c50d9",
+  "id": "resource-1033f6c7f20c50d9",
+  "title": "nc1020tw",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [
+    "nc1020tw"
+  ],
+  "description": "历史收集资源；分类：nc1020tw。授权及实际兼容性未经确认。",
+  "compatibilityNotes": "目标机型线索：nc1020tw；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。ROM/NOR/NAND 应组合选择用于对应机型配置；.nand0为临时文件不提供。可写镜像不保证出厂状态。",
+  "files": [
+    {
+      "sha256": "3c1673d9a2f00bee41cf88788bfc1ab5c6a670ec79beee45f22b2e6eb58d4a26",
+      "path": "releases/download/resources-current/3c1673d9a2f00bee41cf88788bfc1ab5c6a670ec79beee45f22b2e6eb58d4a26.nor"
+    },
+    {
+      "sha256": "53def52845a7a6131b6d1605a757c5fae3b73cad34e959d0c85b2fcdfbb48501",
+      "path": "releases/download/resources-current/53def52845a7a6131b6d1605a757c5fae3b73cad34e959d0c85b2fcdfbb48501.rom"
+    }
+  ]
+}

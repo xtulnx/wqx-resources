@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "pages": [
+    {
+      "path": "catalog/bin/nc1020/pages/0001.json",
+      "count": 25
+    },
+    {
+      "path": "catalog/bin/nc1020/pages/0002.json",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "resource-b39bf5973bc2832d",
+  "title": "无底洞",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [],
+  "compatibilityNotes": "仅识别运行环境，具体机型待确认；不表示全机型兼容。；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。从模拟器导入入口选择文件；BASIC/LAVA 需要对应运行环境及可能存在的配套数据，依赖尚需核实。",
+  "type": "lava",
+  "description": "历史收集资源；分类：lava。授权及实际兼容性未经确认。",
+  "logo": "",
+  "screenshots": [],
+  "files": [
+    {
+      "name": "无底洞.lav",
+      "role": "lav",
+      "bytes": 3909,
+      "sha256": "7e2641d11e17bf0c0bbd9234a3127a48004b156987299f229fb3c7ed7030a32b",
+      "path": "releases/download/resources-current/7e2641d11e17bf0c0bbd9234a3127a48004b156987299f229fb3c7ed7030a32b.lav"
+    }
+  ],
+  "classification": "lava",
+  "rightsStatus": "unverified"
+}

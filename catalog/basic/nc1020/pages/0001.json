@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 2,
+  "resources": [
+    {
+      "id": "resource-0500a557c4a980e8",
+      "path": "catalog/basic/nc1020/entries/resource-0500a557c4a980e8.json"
+    },
+    {
+      "id": "resource-28f0cad56f9a4d81",
+      "path": "catalog/basic/nc1020/entries/resource-28f0cad56f9a4d81.json"
+    },
+    {
+      "id": "resource-4330421a1cc22c3b",
+      "path": "catalog/basic/nc1020/entries/resource-4330421a1cc22c3b.json"
+    },
+    {
+      "id": "resource-4659164d2815f378",
+      "path": "catalog/basic/nc1020/entries/resource-4659164d2815f378.json"
+    },
+    {
+      "id": "resource-6ca543922e5bbb9e",
+      "path": "catalog/basic/nc1020/entries/resource-6ca543922e5bbb9e.json"
+    },
+    {
+      "id": "resource-faee3052d4f289fb",
+      "path": "catalog/basic/nc1020/entries/resource-faee3052d4f289fb.json"
+    }
+  ]
+}

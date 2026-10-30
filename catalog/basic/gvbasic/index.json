@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "pages": [
+    {
+      "path": "catalog/basic/gvbasic/pages/0001.json",
+      "count": 25
+    },
+    {
+      "path": "catalog/basic/gvbasic/pages/0002.json",
+      "count": 25
+    },
+    {
+      "path": "catalog/basic/gvbasic/pages/0003.json",
+      "count": 21
+    }
+  ]
+}

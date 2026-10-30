@@ -1,0 +1,22 @@
+{
+  "status": "maintainer-published-unverified",
+  "rightsStatus": "unverified",
+  "publicationDecision": "维护者于2026-10-30明确决定在未取得作者授权情况下先行发布，收到可信版权通知后暂停并核实移除。此决定不构成权利人授权。",
+  "candidateId": "candidate-88ec2c2ab4fff0cb",
+  "id": "resource-88ec2c2ab4fff0cb",
+  "title": "疯狂医院N+",
+  "version": "历史收集版（具体版本待确认）",
+  "author": "原作者待考（不将收集者视为作者）",
+  "license": "授权未确认；本仓库不授予第三方资源的使用或再分发许可",
+  "evidence": "docs/DISCLAIMER.md",
+  "models": [],
+  "description": "历史收集资源；分类：gvbasic。授权及实际兼容性未经确认。",
+  "compatibilityNotes": "仅识别运行环境，具体机型待确认；不表示全机型兼容。；未逐项执行实际运行验证。",
+  "usage": "下载后核对用途和兼容性，先备份设备数据。从模拟器导入入口选择文件；BASIC/LAVA 需要对应运行环境及可能存在的配套数据，依赖尚需核实。",
+  "files": [
+    {
+      "sha256": "8f4a8d47c0af981f36f999419ab2aa41368930f91e64639fafb27a7b11ebd364",
+      "path": "releases/download/resources-current/8f4a8d47c0af981f36f999419ab2aa41368930f91e64639fafb27a7b11ebd364.bas"
+    }
+  ]
+}
